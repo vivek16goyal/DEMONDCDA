@@ -1,0 +1,40 @@
+20/09/2016 03:47:03 Cipher Reading Process Start.
+
+20/09/2016 03:47:04 Getting Machine Physical Address.
+
+20/09/2016 03:47:04 Machine Physical Address Is 00E01C3C5A00
+
+20/09/2016 03:47:04 Checking Licensing for TiaERP@App Application...
+
+20/09/2016 03:47:04 Sorry U Dont Have Licence To Run This Program !
+
+20/09/2016 03:47:04 Process Stop. Due To Problem In Getting Data From Cipher.
+
+20/09/2016 03:47:09 Error occurred while excuting URL http://localhost:51738//Values/StopService?Pcode= Unable to connect to the remote server
+
+20/09/2016 03:48:23 Cipher Reading Process Start.
+
+20/09/2016 03:48:23 Getting Machine Physical Address.
+
+20/09/2016 03:48:23 Machine Physical Address Is 00E01C3C5A00
+
+20/09/2016 03:48:23 Checking Licensing for TiaERP@App Application...
+
+20/09/2016 03:48:55 Checking Database Connection.
+
+20/09/2016 03:48:55 Please Wait, It Will Take Some Time...
+
+20/09/2016 03:48:55 Process start to add TiaAppWebService in IIS
+
+20/09/2016 03:48:55 Checking TiaAppWebService is present or not...
+
+20/09/2016 03:48:55 TiaAppWebService is present
+
+20/09/2016 03:48:55 Checking for physical path of TiaAppWebService folder...
+
+20/09/2016 03:48:56 Trying to start TiaAppWebService...
+
+20/09/2016 03:49:09 TiaAppWebService Start Successfully!!!
+
+20/09/2016 03:49:30 TiaAppWebService Start Successfully!!!
+
